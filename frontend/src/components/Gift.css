@@ -1,0 +1,78 @@
+.gift-input-container {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    height: 500px;
+    font-family: "Monaco";
+    /* border: double; */
+}
+
+.gift-input {
+    height: 500px;
+    margin-top: 20px;
+    padding: 2px;
+    /* background: grey; */
+    /* display: flex; */
+    align-items: center
+
+}
+
+.gift-buttons {
+    /* background-color: orange; */
+    position: absolute;
+    
+    
+
+}
+
+h2 {
+	color:rgb(207, 125, 255);
+    font-size: 50px;
+    /* color: transparent; */
+    /* opacity: 70%; */
+	font-weight: 250;
+    text-shadow: 2px 2px #b5ecfa;
+    font-family: "Copperplate";
+    margin-top: 30px;
+	
+}
+
+.asset-button {
+    position: relative;
+    background-color: transparent;
+    border: 2px solid;
+    font-family: "Copperplate";
+    border-color: rgb(191, 80, 255);
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+    /* border: 2px solid */
+}
+
+.send-button {
+    position: relative;
+    background-color: transparent;
+    border: 2px solid;
+    font-family: "Copperplate";
+    border-color: rgb(191, 80, 255);
+    border-radius: 5px;
+    height: 20px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.gift-form {
+    border: 2px solid rgb(191, 80, 255);;
+    border-radius: 5px;
+    background-color: transparent;
+    font-family: "Copperplate";
+    height: 20px;
+    width: 250px;
+
+}

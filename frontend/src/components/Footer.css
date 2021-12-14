@@ -1,0 +1,12 @@
+.owner-address {
+    position: absolute;
+    bottom: 0;
+    font-family: "Copperplate";
+    font-size: 14px;
+    opacity: 90%;
+    color:rgb(229, 188, 253);
+    margin-bottom: 3px;
+    margin-left: 5px;
+    
+
+}
